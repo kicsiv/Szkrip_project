@@ -1,8 +1,6 @@
 # Szkrip_project
 # Egyszerű Számológép Program
 
-Ez a program egy egyszerű számológépet valósít meg Python nyelven. A számológép három fő modult tartalmaz: `calculator`, `gui`, és `utils`. Az alábbiakban röviden ismertetem, hogy melyik modul mit csinál.
-
 ## Modulok és Függvények:
 
 ### `calculator` modul:
