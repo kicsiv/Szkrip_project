@@ -6,7 +6,7 @@ from calculator import Calculator
 class CalculatorGUI:
     def __init__(self, master):
         self.master = master
-        self.master.title("Simple Calculator")
+        self.master.title("Egyszerú számológép")
 
         self.calculator = Calculator()
 
