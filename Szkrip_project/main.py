@@ -9,9 +9,9 @@ def custom_function(x):
     return x + 10
 
 
-print("Square of 5:", square(5))
-print("Cube of 3:", cube(3))
-print("Power of 2 to the 3rd:", power(2, 3))
+print("5-nek a négyzete: ", square(5))
+print("3-nak a köbe: ", cube(3))
+print("2 a harmadikon: ", power(2, 3))
 
 
 root = tk.Tk()
