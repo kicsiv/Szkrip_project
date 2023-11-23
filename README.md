@@ -1,4 +1,4 @@
-# Szkrip_project
+# Szkrip_project Kiss Viktor KP5FPC
 # Egyszerű Számológép Program
 
 ## Modulok és Függvények:
