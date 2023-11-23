@@ -39,7 +39,7 @@ class CalculatorGUI:
                 result = eval(self.result_var.get())
                 self.result_var.set(result)
             except Exception as e:
-                self.result_var.set('Error')
+                self.result_var.set('Hiba')
         else:
             current_text = self.result_var.get()
             new_text = current_text + value
