@@ -14,4 +14,4 @@ class Calculator:
         if y != 0:
             return x / y
         else:
-            return "Error: Cannot divide by zero!"
+            return "Hiba: nullával nem lehet oszatni!"
